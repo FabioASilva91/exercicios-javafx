@@ -1,0 +1,30 @@
+.conteudo {
+	-fx-background-color: #000000;
+	-fx-font-family: Ubuntu;
+}
+.titulo{
+	-fx-text-fill: #1866e7;
+	-fx-font-size: 32px;
+}
+
+.numero {
+	-fx-text-fill: #c0c0c0;
+	-fx-font-size: 22px;
+}
+
+.botoes{
+	-fx-background-color: #fff;
+	-fx-text-fill: #1866e7;
+	-fx-font-size: 24px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde{
+	-fx-text-fill: #35ff35;
+}
+
+.vermelho{
+	-fx-text-fill: #ff5959;
+}
